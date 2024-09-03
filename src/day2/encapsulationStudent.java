@@ -1,6 +1,6 @@
 package day2;
 
-public class encapsulation2 {
+public class encapsulationStudent {
     public static void main(String[] args) {
         // Creating a Student object using the no-argument constructor
         Student student1 = new Student();

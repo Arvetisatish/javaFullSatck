@@ -1,7 +1,7 @@
 package day2;
 
 
-public class encapsulation {
+public class encapsulationCitizen {
     public static void main(String[] args) {
         // Creating a Citizen object using the no-argument constructor
         Citizen citizen1 = new Citizen();
